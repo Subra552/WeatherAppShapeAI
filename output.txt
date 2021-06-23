@@ -1,0 +1,7 @@
+--------------------------------------------------------------
+Weather Stats for - ARA || 23 Jun 2021 | 11:11:27 AM
+--------------------------------------------------------------
+Current temperature is:      28.94 deg C
+Current weather desc         : few clouds
+Current Humidity             : 49 %
+Current wind speed           : 3.23 kmph
